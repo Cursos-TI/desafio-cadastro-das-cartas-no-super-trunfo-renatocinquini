@@ -85,7 +85,7 @@ int main() {
     printf("Nome da Cidade: %s\n", cidade1);
     printf("População: %d hab.\n", populacao1);
     printf("Área: %.2f Km²\n", area1);
-    printf("PIB: %.2f bilhoões de reais\n", pib1);
+    printf("PIB: %.2f bilhões de reais\n", pib1);
     printf("Nº de Pontos Turísticos: %d\n", pontos1);
 
     printf("\n");
@@ -96,7 +96,7 @@ int main() {
     printf("Nome da Cidade: %s\n", cidade2);
     printf("População: %d hab.\n", populacao2);
     printf("Área: %.2f Km²\n", area2);
-    printf("PIB: %.2f bilhoões de reais\n", pib2);
+    printf("PIB: %.2f bilhões de reais\n", pib2);
     printf("Nº de Pontos Turísticos: %d\n", pontos2);
 
     printf("\n");
